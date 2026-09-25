@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-fairfield",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Fairfield GIS — Fairfield, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4ca058b055a82bb689eb7e491e2ba4c76b4903b3ccc99acc75b45aa427b0aff4",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-f53122e459707b03bf328735cdb702120ad55702f5ac45c085fb7e74324e9f25",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
